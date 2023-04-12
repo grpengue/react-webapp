@@ -19,7 +19,7 @@ class App extends Component {
           >
           </a>
           <h3>
-            React Webapp Lab - version 2.0
+            React Webapp Lab - version 2.1
           </h3>
         </header>
       </div>
