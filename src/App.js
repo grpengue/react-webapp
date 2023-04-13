@@ -19,7 +19,7 @@ class App extends Component {
           >
           </a>
           <h3>
-            CrowdStrike Webinar Cloud
+            React Webapp 3.0
           </h3>
         </header>
       </div>
